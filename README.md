@@ -1,4 +1,4 @@
-# AI Question Generator  
+# QueGen Agent
 
 An intelligent AI agent that autonomously generates quiz questions from any topic or text using Google’s Gemini API. Designed for educators, students, and content creators, it adapts to different difficulty levels and question formats to enhance the learning experience.  
 
