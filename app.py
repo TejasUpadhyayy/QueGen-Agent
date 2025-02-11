@@ -75,7 +75,7 @@ class QuestionGenerator:
 
 def create_ui():
     """Create Streamlit UI components."""
-    st.set_page_config(page_title="AI Question Generator", page_icon="📚")
+    st.set_page_config(page_title="QueGen Agent", page_icon="📚")
     
     st.title(" QueGen Agent")
     st.write("Enter a topic or text, and the agent will generate quiz questions.")
